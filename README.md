@@ -1,4 +1,5 @@
 Image Steganography in C
+
 A simple Image Steganography project developed in C that hides and extracts secret data inside BMP image files using the Least Significant Bit (LSB) technique.
 
 📌 Features
